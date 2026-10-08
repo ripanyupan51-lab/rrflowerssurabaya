@@ -1,0 +1,459 @@
+[
+  {
+    "id": "PP001",
+    "name": "Bunga Papan PP001",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Ucapan",
+      "Duka Cita"
+    ],
+    "price": 400000,
+    "price_label": "Rp400.000",
+    "size": "80 × 120 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP002",
+    "name": "Bunga Papan PP002",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Ucapan",
+      "Duka Cita"
+    ],
+    "price": 400000,
+    "price_label": "Rp400.000",
+    "size": "80 × 120 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP003",
+    "name": "Bunga Papan PP003",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Wedding",
+      "Ucapan"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP004",
+    "name": "Bunga Papan PP004",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Duka Cita",
+      "Korporasi"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP005",
+    "name": "Bunga Papan PP005",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Duka Cita"
+    ],
+    "price": 750000,
+    "price_label": "Rp750.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP006",
+    "name": "Bunga Papan PP006",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Duka Cita"
+    ],
+    "price": 750000,
+    "price_label": "Rp750.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP007",
+    "name": "Bunga Papan PP007",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Wedding",
+      "Ucapan"
+    ],
+    "price": 1000000,
+    "price_label": "Rp1.000.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP008",
+    "name": "Bunga Papan PP008",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Duka Cita",
+      "Korporasi"
+    ],
+    "price": 1500000,
+    "price_label": "Rp1.500.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP009",
+    "name": "Bunga Papan PP009",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Wedding",
+      "Ucapan"
+    ],
+    "price": 1500000,
+    "price_label": "Rp1.500.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP010",
+    "name": "Bunga Papan PP010",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 1500000,
+    "price_label": "Rp1.500.000",
+    "size": "225 × 140 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP011",
+    "name": "Bunga Papan PP011",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Congratulations"
+    ],
+    "price": 400000,
+    "price_label": "Rp400.000",
+    "size": "80 × 120 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP012",
+    "name": "Bunga Papan PP012",
+    "category": "Bunga Papan",
+    "occasion": [
+      "Wedding"
+    ],
+    "price": 400000,
+    "price_label": "Rp400.000",
+    "size": "120 × 80 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP013",
+    "name": "Standing Flower PP013",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "60 × 125 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP014",
+    "name": "Standing Flower PP014",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "60 × 125 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP015",
+    "name": "Standing Flower PP015",
+    "category": "Standing Flower",
+    "occasion": [
+      "Ucapan"
+    ],
+    "price": 750000,
+    "price_label": "Rp750.000",
+    "size": "60 × 150 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP016",
+    "name": "Standing Flower PP016",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 750000,
+    "price_label": "Rp750.000",
+    "size": "60 × 150 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP017",
+    "name": "Standing Flower PP017",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 1000000,
+    "price_label": "Rp1.000.000",
+    "size": "60 × 150 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP018",
+    "name": "Standing Flower PP018",
+    "category": "Standing Flower",
+    "occasion": [
+      "Congratulations"
+    ],
+    "price": 1000000,
+    "price_label": "Rp1.000.000",
+    "size": "60 × 150 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP019",
+    "name": "Standing Flower PP019",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 1500000,
+    "price_label": "Rp1.500.000",
+    "size": "70 × 170 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP020",
+    "name": "Standing Flower PP020",
+    "category": "Standing Flower",
+    "occasion": [
+      "Duka Cita",
+      "Ucapan"
+    ],
+    "price": 1500000,
+    "price_label": "Rp1.500.000",
+    "size": "70 × 170 cm",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP021",
+    "name": "Corsage PP021",
+    "category": "Corsage / Bunga Dada",
+    "occasion": [
+      "Event",
+      "Personal"
+    ],
+    "price": 15000,
+    "price_label": "Rp15.000 / pcs",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP022",
+    "name": "Corsage PP022",
+    "category": "Corsage / Bunga Dada",
+    "occasion": [
+      "Event",
+      "Personal"
+    ],
+    "price": 10000,
+    "price_label": "Rp10.000 / pcs",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP023",
+    "name": "Hand Bouquet PP023",
+    "category": "Hand Bouquet",
+    "occasion": [
+      "Hadiah",
+      "Personal"
+    ],
+    "price": 350000,
+    "price_label": "Rp350.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP024",
+    "name": "Hand Bouquet PP024",
+    "category": "Hand Bouquet",
+    "occasion": [
+      "Hadiah",
+      "Personal"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP025",
+    "name": "Hand Bouquet PP025",
+    "category": "Hand Bouquet",
+    "occasion": [
+      "Hadiah",
+      "Personal"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": true,
+    "custom": false,
+    "status": "active"
+  },
+  {
+    "id": "PP026",
+    "name": "Bouquet Meja Custom PP026",
+    "category": "Rangkaian Meja",
+    "occasion": [
+      "Event",
+      "Dekorasi"
+    ],
+    "price": 500000,
+    "price_label": "Rp500.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": true,
+    "status": "active"
+  },
+  {
+    "id": "PP027",
+    "name": "Bouquet Meja Custom PP027",
+    "category": "Rangkaian Meja",
+    "occasion": [
+      "Event",
+      "Dekorasi"
+    ],
+    "price": 400000,
+    "price_label": "Rp400.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": true,
+    "status": "active"
+  },
+  {
+    "id": "PP028",
+    "name": "Bouquet Meja Custom PP028",
+    "category": "Rangkaian Meja",
+    "occasion": [
+      "Event",
+      "Dekorasi"
+    ],
+    "price": 750000,
+    "price_label": "Rp750.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": true,
+    "status": "active"
+  },
+  {
+    "id": "PP029",
+    "name": "Bouquet Meja Custom PP029",
+    "category": "Rangkaian Meja",
+    "occasion": [
+      "Event",
+      "Dekorasi"
+    ],
+    "price": 450000,
+    "price_label": "Rp450.000",
+    "size": "—",
+    "image": "assets/images/placeholder.svg",
+    "featured": false,
+    "custom": true,
+    "status": "active"
+  }
+]
