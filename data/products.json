@@ -10,10 +10,11 @@
     "price": 400000,
     "price_label": "Rp400.000",
     "size": "80 × 120 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita-3.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP002",
@@ -26,10 +27,11 @@
     "price": 400000,
     "price_label": "Rp400.000",
     "size": "80 × 120 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP003",
@@ -42,10 +44,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/mandiri-2.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP004",
@@ -58,10 +61,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP005",
@@ -73,10 +77,11 @@
     "price": 750000,
     "price_label": "Rp750.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita-4.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP006",
@@ -88,10 +93,11 @@
     "price": 750000,
     "price_label": "Rp750.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita-3.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP007",
@@ -104,10 +110,11 @@
     "price": 1000000,
     "price_label": "Rp1.000.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bersuka-cita.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP008",
@@ -120,10 +127,11 @@
     "price": 1500000,
     "price_label": "Rp1.500.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita-2.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP009",
@@ -136,10 +144,11 @@
     "price": 1500000,
     "price_label": "Rp1.500.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/mandiri.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP010",
@@ -152,10 +161,11 @@
     "price": 1500000,
     "price_label": "Rp1.500.000",
     "size": "225 × 140 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/berduka-cita.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP011",
@@ -167,10 +177,11 @@
     "price": 400000,
     "price_label": "Rp400.000",
     "size": "80 × 120 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bersuka-cita-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP012",
@@ -182,10 +193,11 @@
     "price": 400000,
     "price_label": "Rp400.000",
     "size": "120 × 80 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/danamon.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP013",
@@ -198,10 +210,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "60 × 125 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP014",
@@ -213,10 +226,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "60 × 125 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP015",
@@ -228,10 +242,11 @@
     "price": 750000,
     "price_label": "Rp750.000",
     "size": "60 × 150 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP016",
@@ -244,10 +259,11 @@
     "price": 750000,
     "price_label": "Rp750.000",
     "size": "60 × 150 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP017",
@@ -260,10 +276,11 @@
     "price": 1000000,
     "price_label": "Rp1.000.000",
     "size": "60 × 150 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP018",
@@ -275,10 +292,11 @@
     "price": 1000000,
     "price_label": "Rp1.000.000",
     "size": "60 × 150 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower-2.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP019",
@@ -291,10 +309,11 @@
     "price": 1500000,
     "price_label": "Rp1.500.000",
     "size": "70 × 170 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP020",
@@ -307,10 +326,11 @@
     "price": 1500000,
     "price_label": "Rp1.500.000",
     "size": "70 × 170 cm",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/standing-flower-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP021",
@@ -323,10 +343,11 @@
     "price": 15000,
     "price_label": "Rp15.000 / pcs",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom-2.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP022",
@@ -339,10 +360,11 @@
     "price": 10000,
     "price_label": "Rp10.000 / pcs",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP023",
@@ -355,10 +377,11 @@
     "price": 350000,
     "price_label": "Rp350.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/custom-arangement.webp",
     "featured": false,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP024",
@@ -371,10 +394,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom-3.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP025",
@@ -387,10 +411,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom-2.webp",
     "featured": true,
     "custom": false,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP026",
@@ -403,10 +428,11 @@
     "price": 500000,
     "price_label": "Rp500.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom.webp",
     "featured": false,
     "custom": true,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP027",
@@ -419,10 +445,11 @@
     "price": 400000,
     "price_label": "Rp400.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/custom-arangement.webp",
     "featured": false,
     "custom": true,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP028",
@@ -435,10 +462,11 @@
     "price": 750000,
     "price_label": "Rp750.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom-3.webp",
     "featured": false,
     "custom": true,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   },
   {
     "id": "PP029",
@@ -451,9 +479,10 @@
     "price": 450000,
     "price_label": "Rp450.000",
     "size": "—",
-    "image": "assets/images/placeholder.svg",
+    "image": "assets/images/bunga-custom-2.webp",
     "featured": false,
     "custom": true,
-    "status": "active"
+    "status": "active",
+    "description": "Foto pilihan RR Flowers untuk membantu kamu melihat gaya rangkaian. Detail desain dan ketersediaan produk akan dikonfirmasi sebelum pemesanan."
   }
 ]

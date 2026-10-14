@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900"><rect width="1200" height="900" fill="#d8d1c8"/><text x="600" y="450" text-anchor="middle" font-family="Arial" font-size="42" fill="#746e68">FOTO PRODUK RR FLOWERS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5efe5"/><stop offset="1" stop-color="#dce2d4"/></linearGradient><linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6c8069"/><stop offset="1" stop-color="#263f30"/></linearGradient></defs>
+<rect width="900" height="1050" fill="url(#bg)"/>
+<circle cx="700" cy="220" r="190" fill="#fff" opacity=".26"/>
+<path d="M470 900 C490 710 430 540 520 340" fill="none" stroke="#536c50" stroke-width="12" stroke-linecap="round"/>
+<path d="M490 700 C320 670 280 560 310 500 C430 510 500 600 490 700Z" fill="url(#leaf)"/>
+<path d="M490 590 C620 580 700 470 680 410 C570 420 500 500 490 590Z" fill="#81937a"/>
+<path d="M500 820 C620 790 660 700 645 655 C555 680 500 740 500 820Z" fill="#526b4f"/>
+<g transform="translate(520 300)">
+<ellipse rx="55" ry="95" cy="-72" fill="#b46c79"/><ellipse rx="55" ry="95" cy="72" fill="#b46c79"/><ellipse rx="95" ry="55" cx="-72" fill="#c88c96"/><ellipse rx="95" ry="55" cx="72" fill="#c88c96"/><ellipse rx="64" ry="64" fill="#f2d9c9"/><circle r="28" fill="#c89c68"/>
+</g>
+<g transform="translate(315 400) scale(.62)">
+<ellipse rx="55" ry="95" cy="-72" fill="#fffaf2"/><ellipse rx="55" ry="95" cy="72" fill="#fffaf2"/><ellipse rx="95" ry="55" cx="-72" fill="#eadbc8"/><ellipse rx="95" ry="55" cx="72" fill="#eadbc8"/><ellipse rx="64" ry="64" fill="#f8eee0"/><circle r="28" fill="#caa56e"/>
+</g>
+<g transform="translate(650 510) scale(.5)">
+<ellipse rx="55" ry="95" cy="-72" fill="#d9a0a7"/><ellipse rx="55" ry="95" cy="72" fill="#d9a0a7"/><ellipse rx="95" ry="55" cx="-72" fill="#e5b6bb"/><ellipse rx="95" ry="55" cx="72" fill="#e5b6bb"/><ellipse rx="64" ry="64" fill="#f5e4d4"/><circle r="28" fill="#c69d65"/>
+</g>
+<text x="450" y="970" text-anchor="middle" fill="#263f30" font-family="Georgia,serif" font-size="26" letter-spacing="4">RR FLOWERS</text>
+<text x="450" y="1005" text-anchor="middle" fill="#5e6b58" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">GANTI DENGAN FOTO PRODUK ASLI</text>
+</svg>
